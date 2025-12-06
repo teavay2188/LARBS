@@ -6,7 +6,7 @@
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
+dotfilesrepo="https://github.com/teavay2188/voidrice.git"
 progsfile="https://raw.githubusercontent.com/teavay2188/LARBS/master/static/progs.csv"
 aurhelper="yay"
 repobranch="master"
